@@ -1,0 +1,16 @@
+{
+  "aws": {
+    "access_key_id": "key",
+    "secret_access_key": "secret",
+    "region": "us-east-1"
+  },
+  "storage": {
+    "type": [
+      "s3",
+      "filesystem"
+    ],
+    "primary": "filesystem",
+    "root_path": "/tmp/test-storage",
+    "url_base": "http://base"
+  }
+}

@@ -1,0 +1,5 @@
+require_relative './controls/bucket'
+require_relative './controls/data'
+require_relative './controls/file'
+require_relative './controls/key'
+require_relative './controls/url'
